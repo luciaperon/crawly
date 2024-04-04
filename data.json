@@ -1,0 +1,13 @@
+{
+  "name": { "fullNegativeKeywords": [], "partialNegativeKeywords": [] },
+  "socialMedia": { "keywords": [], "shareKeywords": [], "postKeywords": [] },
+  "url": {
+    "includeCDN": true,
+    "includeInternal": false,
+    "internalKeywordsWhitelist": [],
+    "internalKeywordsBlacklist": []
+  },
+  "image": { "includeInternal": false },
+  "advertisement": { "keywords": [] },
+  "externalURLs": { "keywords": [] }
+}

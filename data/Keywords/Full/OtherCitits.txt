@@ -1,0 +1,147 @@
+Abbotsford
+Airdrie	
+Armstrong
+Barrie
+Bathurst
+Belleville
+Brampton
+Brandon
+Brant
+Brantford
+Brockville
+Brooks
+Burlington
+Burnaby
+Calgary
+Cambridge
+Campbell River
+Campbellton
+Camrose
+Castlegar
+Chestermere
+Chilliwack
+Clarence-Rockland
+Cold Lake
+Colwood
+Coquitlam
+Corner Brook
+Cornwall
+Courtenay
+Cranbrook
+Dartmouth
+Dauphin
+Dawson Creek
+Delta
+Dieppe
+Dryden
+Duncan
+Edmonton
+Edmundston
+Elliot Lake
+Enderby
+Fernie
+Flin Flon
+Fort Saskatchewan
+Fort St. John	
+Fredericton
+Grand Forks
+Grande Prairie
+Greater Sudbury
+Greenwood
+Guelph
+Haldimand County
+Halifax
+Hamilton
+Iqaluit
+Kamloops
+Kawartha Lakes
+Kelowna
+Kenora
+Kimberley
+Kingston
+Kitchener
+Lacombe
+Langford
+Langley
+Leduc
+Lethbridge
+Lloydminster
+London
+Maple Ridge
+Markham
+Medicine Hat
+Merritt
+Miramichi
+Mississauga
+Moncton
+Morden
+Mount Pearl
+Nanaimo
+Nelson
+New Westminster
+Niagara Falls
+Norfolk County
+North Bay
+North Vancouver
+Orillia
+Oshawa
+Ottawa
+Owen Sound
+Parksville
+Pembroke
+Penticton
+Peterborough
+Pickering
+Pitt Meadows
+Port Alberni
+Port Colborne
+Port Coquitlam
+Port Moody
+Portage la Prairie
+Powell River
+Prince Edward County
+Prince George
+Prince Rupert
+Quesnel
+Quinte West
+Red Deer
+Revelstoke
+Richmond
+Rossland
+Saint John
+Salmon Arm
+Sarnia
+Sault Ste. Marie
+Selkirk
+Spruce Grove
+St. Albert
+St. Catharines
+St. John's
+St. Thomas
+Steinbach
+Stratford
+Surrey
+Sydney
+Temiskaming Shores
+Terrace
+Thompson
+Thorold
+Thunder Bay
+Timmins
+Toronto
+Trail
+Vancouver
+Vaughan
+Vernon
+Victoria
+Waterloo
+Welland
+West Kelowna
+Wetaskiwin
+White Rock
+Williams Lake
+Windsor
+Winkler
+Winnipeg
+Woodstock
+Yellowknife

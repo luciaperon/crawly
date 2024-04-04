@@ -1,0 +1,67 @@
+.curl-command,
+.request-url,
+.responses-inner table:nth-child(2),
+.microlight,
+.parameters tbody tr:not(tr[data-param-name]) {
+  display: none;
+}
+
+.body-param__text {
+  min-height: 350px;
+  height: 350px;
+}
+
+.opblock-external-docs-wrapper .opblock-title_normal {
+  display: none;
+}
+
+.swagger-ui .opblock-external-docs-wrapper p,
+#hdng {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.opblock-external-docs__link {
+  font-size: 16px;
+}
+
+#custom-description-list li {
+  font-size: 14px;
+  margin: 5px;
+}
+
+.models {
+  display: none !important;
+}
+
+#useful-urls #hdng {
+  margin-bottom: 0 !important;
+}
+
+#useful-urls {
+  margin-top: 25px;
+}
+
+#useful-urls ul li {
+  margin-bottom: 10px;
+}
+
+#description-href {
+  font-size: 14px;
+}
+
+#custom-description-list-warning {
+  margin-top: 20px;
+}
+
+#custom-description-list-warning span {
+  font-weight: bold;
+  color: red;
+  font-size: 16px;
+}
+
+#custom-description-list-warning div {
+  font-weight: bold;
+  font-size: 12px;
+  margin-top: 5px;
+}
